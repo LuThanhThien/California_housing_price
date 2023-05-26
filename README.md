@@ -7,4 +7,4 @@ Through this project, we will develop many skills on supervised machine learning
 - Prepare data: use statistical knowledge to prepare data, know many methods to prepare train - test - validation set, visualize the raw data and find correlation.
 - Clean data: deal with _Null_ values, categorial attributes by various methods (mean, median, most frequency, one-hot encoding, etc.), build fit-trans pipeline.
 - Analyze data: select training models (Linear Regression, Decision Trees, Random Forest), evaluate, compare and fine tune models.
- 
+Besides those, we learn to use Numpy and Pandas library to handle with numerical values, MatplotLib to visualize the data.
