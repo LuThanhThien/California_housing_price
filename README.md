@@ -9,7 +9,7 @@ Through this project, we will develop many skills on supervised machine learning
 - Clean data: deal with _Null_ values, categorial attributes by various methods (mean, median, most frequency, one-hot encoding, etc.), build fit-trans pipeline.
 - Analyze data: select training models (**Linear Regression, Decision Trees, Random Forest**), evaluate, compare and fine tune models.
 Besides those, we learn to use **Numpy** and **Pandas** library to handle with numerical values, **MatplotLib** to visualize the data.
-## END-TO-END PROJECT: STEPS
+## END-TO-END PROJECT:
 In this project, we will go through step by step like a real project which includes:
 1. Prepare data: 
 - Fetch data: fetch data from the Internet, create its workspace (folders contain the dataset).
