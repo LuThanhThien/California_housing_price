@@ -24,4 +24,4 @@ In this project, we will go through step by step like a real project which inclu
 4. Deploy model: making the trained model available for use in a production environment, where it can receive input data, make predictions, and provide outputs.
 ### REFERENCES
 This project is derived from the book *Hands-On Machine Learning with Scikit-Learn & TensorFlow*, the comments are based on my level of understanding and there are also some adjustments in the code that I made myself to explore new insights besides the book instruction. <br>
-***Thank you for your interest in this small project, I am pleased to share my knowledge and recieve any feedbacks!***
+***Thank you for your interest in this small project, I am pleased to share my knowledge and receive any feedbacks!***
